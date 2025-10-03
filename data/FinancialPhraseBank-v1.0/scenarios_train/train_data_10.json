@@ -1,0 +1,1687 @@
+[
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The value of the orders is about EUR 70mn .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit improved by 44.0 % to ER 4.7 mn from EUR 3.3 mn in 2004 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Finnish paints company acquired the remaining 49 pct that it did not own from Ukraine 's LGU for an undisclosed sum .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Delivery is expected to take place later this month .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Competition authorities will have to approve the deal before it can be finalized .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit rose to EUR 4.7 mn from EUR 4.6 mn .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "1 April 2011 - Finnish machinery rental company Ramirent Oyj HEL : RMR1V said today it has acquired the assets of sector player Stavebni Doprava a Mechanizace SDM in the Czech Republic for an undisclosed sum .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In December alone , the members of the Lithuanian Brewers ' Association sold a total of 20.3 million liters of beer , an increase of 1.9 percent from the sales of 19.92 million liters in December 2004 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "` Nordic infrastructure construction is one of our strategic growth areas .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The scheme for TeliaSonera and Altimo is practically identical , except that it involves the merger of their stakes in VimpelCom and Kyivstar .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The ongoing project where Tekla Structures is being used is the Vashi Exhibition Centre being developed by Insteel Engineers Pvt Ltd-IIVRCL Infrastructures & Projects Ltd & CIDCO .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Markets had been expecting a poor performance , and the company 's stock was up 6 percent at  x20ac 23.89 US$ 33.84 in early afternoon trading in Helsinki .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The negotiations concern personnel of Cencorp Corporation and Singulase Oy as whole in Finland and in Sweden , the company said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The compnay also said that it would lower the price of development projects by about one third compared with last November .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Underground parking facilities will also be built on the basement floor .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish fibers and plastic products maker Suominen Corporation said its net loss narrowed to 1.6 mln euro $ 2.0 mln in the first nine months of 2006 from 2.16 mln euro $ 2.7 mln in the same period of 2005 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "NORDIC BUSINESS REPORT-26 June 2006-Metso Corporation wins EUR50m equipment order in Australia -\ufffd 1998-2006 M2 COMMUNICATIONS LTD The Finnish engineering and technology group Metso Corporation said on Monday ( 26 June ) that it has received a EUR50m equipment order in Australia .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Honkarakenne mainly exports large luxury log houses to Russia to be used as one-family houses or holiday homes ; 70 % of sales go to the Moscow region , about 20 % to the St Petersburg region , and the remainder to other locations .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The contract covers installation , training and start-up services .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In a note to clients published , the Dutch broker described the company 's third quarter results as ` soft ' , although it also noted that Elcoteq retained its guidance , dealers said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "These financing arrangements will enable the company to ensure , in line with its treasury policy , that it has sufficient financial instruments at its disposal for its potential capital requirements .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "It estimates the operating profit to further improve from the third quarter .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Nokia bought Chicago-based Navteq in 2008 , acquiring a maps database to compete with Google s maps as well as with navigation device companies such as TomTom NV and Garmin Ltd. .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "ALEXANDRIA , Va. , March 15 -- Jaakko Vilo of Turku , Finland , has developed a panel press .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Stora Enso , a global paper , packaging and wood products company , and Neste Oil , a Finnish company engaged in the refining and marketing of oil , have inaugurated the demonstration plant at Varkaus , Finland for biomass to liquids production utilizing forestry residues .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR61 .5 m , as compared to the corresponding period in 2007 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "RISING costs have forced packaging producer Huhtamaki to axe 90 jobs at its Hampshire manufacturing plant .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "This is the second successful effort for the financial investor this year .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The devices would be launched in the Chinese market in late 2006 , the company said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The MET is located in the Central Business District ( CBD ) of Bangkok .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "EQT has completed its exit from Salcomp , a Finnish company that makes mobile phone chargers , by selling its remaining stake to Swedish investment group Nordstjernan for about ( EURO ) 35 million ( $ 47 million ) .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Device volume in the area decreased by 21 % to 2.7 mn units .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Efficiency programs totalling 100 million euros are under way in Finnair .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Why not give your bedroom a cool makeover for summer .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Marubeni has participated in GHG - Green House Gas - emission reduction projects overseas , obtained emissions credit from its projects and has provided these to Japanese clients .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In addition to its stake in MegaFon , Telecominvest currently owns 100 % of shares in Web Plus and St. Petersburg Payphones , 51 % in telecom equipment producer Peter-Servis and a number of other minor assets .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "As part of the reorganisation measures that will take place in spring 2006 , Tamglass Finton will start personnel negotiations that will affect its entire staff of 33 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The new organization consists of two business units : Charging & Messaging and Finance & Administration .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Neste Shipping is the most likely to remain Finnish as the oil sector and its transports are significant for emergency supply .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The changes will take effect on 1 January 2010 , and they are not estimated to have an impact on the number of employees .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "LONDON MarketWatch -- Nokia nok said it 's won a five-year services contract to run Hutchison Essar 's network operations in nine locations in India .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The borrower was happy to do the roadshow and this paid off as the hit ratio from it was high .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Virala Oy Ab was allocated by the Board of Directors an amount of EUR 1,9 million which is EUR 0,25 million lower than maximum announced on 12/30/2010 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` This contract demonstrates our ability to apply our minerals and metals technologies in adjacent industries , such as oil shale processing .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Paychex has more than 100 offices serving approximately 554,000 payroll clients nationwide as of May 31 , 2009 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Okmetic closed its plant in Espoo in early 2004 , and all production lines from the site were moved to Okmetic 's plants in Vantaa , Finland and Texas , USA .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Sanoma Magazines ' net sales are estimated to grow in 2006 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Altogether Finnair has canceled over 500 flights because of the strike .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Alma Media 's operating profit amounted to EUR 11.9 mn , down from EUR 15.0 mn a year earlier .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish Neste Oil that was previously on the list , has fallen off the list completely .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Combining the two producers will create a strong EU-based fertilizer industry capable of meeting global competition , they added .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish Rautaruukki has been awarded a contract to supply and install steel superstructures for the Partihallsf+\ufffdrbindelsen bridge in Gothenburg in Sweden .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Westend ICT Plc s new 409,665,891 shares and increase of share capital with EUR 2,000,000 based on the resolutions of extraordinary shareholders meeting on 27 December 2010 have today registered in the Trade Register .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "With the government exempting certain stainless steel products from anti-dumping duties , Finland-based Outokumpu today said it will look to enter into supply pacts with the Indian Railways soon .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In 2008 , it generated net sales of EUR 9.3 million USD 13.1 m .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish sports equipment maker Amer Sports Oyj ( HEL : AMEAS ) said today that its net loss narrowed to EUR 16.9 million ( USD 22.3 m ) in the second quarter of 2010 from EUR 23.2 million in the corresponding period a year earlier .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company 's goal is to achieve annual savings of EUR 2 million ( USD 2.7 m ) , of which two thirds are to be realized in 2010 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "According to Arokarhu , some of the purchases that had been scanned into the cash register computer disappeared when the total sum key was pressed .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Sampo Bank 's market share of lending was 13.6 % , down from 14.4 % in the first quarter of 2008 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The period 's sales dropped to EUR 30.6 million from EUR 38.3 million , according to the interim report , released today .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company anticipates its turnover for the whole 2010 to surpass that of the previous year when it was EUR 67.1 million .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The fund at fair value will increase correspondingly .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The figure includes the change in the fair value of the property portfolio , EUR 26.2 million .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Mformation provides enhanced management of these applications by enabling configuration and control throughout their lifecycle .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Kaleva Kustannus Oy ( business ID 0187274-0 ) has , according to its notice , on 10 August 2009 acquired 4,458,000 Alma Media shares .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "At the end of March 2007 , the group 's order book was at EUR 39.6 mn , up 42 % from the corresponding period in 2006 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The hull of the vessel was built one block at a time and Ruukki delivered the plate material for each block as construction progressed .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The joint venture will invest about EUR 500,000 in production technology straight away .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit excluding non-recurring items was EUR 7.8 million compared to EUR 11.2 million .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Antniemi refuted a report by the Finnish daily Turun Sanomat as if the company was reorganizing its operations in the Baltic countries .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Return on equity stood at 18.3 % compared to 15.4 % in the third quarter of 2005 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The acquisition is part of Ramirent 's strategy to strengthen its position in selected locations .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finland 's leading metals group Outokumpu said its fourth-quarter net profit more than tripled on the back of strong global demand for stainless steel , soaring base metal prices and proceeds from the sale of its technology unit .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Estonia 's Agriculture Minister Helir-Valdor Seeder is in Finland on a two-day visit , in the course of which he will meet with his Finnish counterpart Sirkka-Liisa Anttila .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The passenger tunnel is expected to be put into operation in 2009 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "According to Finnair Technical Services , the measure is above all due to the employment situation .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The options might include a partial or total divestment of their shareholdings in Ovako .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The tightened competition situation in the production automation market has affected net sales during 2006 , Cencorp said .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Actions to improve operational efficiency and adjust operations are expected to deliver annualised permanent cost savings of around EUR 4.5 million and will be effected mostly during the first half of 2010 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The acquired business main asset is a mobile authentication and signing solution , branded as Tectia MobileID , which provides authentication to web e-mail , SSL-VPN , MS SharePoint , Tectia Secure Solutions and other applications and resources .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Motorola accounted for 11.5 percent of the South Korean handset market as of the end of April , Samsung held 55 percent and LG Electronics 19 percent , according to Korea-based ATLAS Research Group .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish management software solutions provider Ixonos Oyj net profit decreased to 369,000 euro ( $ 575,000 ) for the first quarter of 2008 from 669,000 euro ( $ 1.0 mln ) for the same period of 2007 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish media company Talentum Oyj 's net profit decreased to 2.5 mln euro ( $ 4.0 mln ) for the first quarter of 2008 from 3.0 mln euro ( $ 4.7 mln ) for the same period of 2007 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In a release , the Company said that Vocollect T2 customers in North America can now take advantage of its Voice Directed Warehousing solution and increase warehouse efficiency and productivity gains at a discounted price .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Annual Report contains the financial statements , the consolidated financial statements , the report by the Board of Directors and the auditor 's report .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Private equity investor CapMan , the owner of Finnish Lumene cosmetics company , is planning to list Lumene .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish software developer Done Solutions Oyj said its net profit increased to 3.5 mln euro ( $ 4.6 mln ) in 2006 from 2.3 mln euro ( $ 3.0 mln ) in 2005 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Creating interfaces that are more similar to interactions in the real world can enable experiences that are more natural and intuitive , in the same way that modern games and movies are more immersive through the use of realistic 3-D graphics .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish plumbing and heating systems supplier Uponor 's net sales in continuing business operations decreased to EUR 249.1 mn in July-September 2008 , compared to EUR 262.1 mn in the third quarter of 2007 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "External net sales from the printing business fell by 43.7 % , partly due to the termination of the printing contract between Ilkka-Yhtyma 's printing house I-print Oy and sector player HSS Media AB in December 2009 and the fall in printing prices .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in late 30s .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Net sales decreased to EUR 220.5 mn from EUR 470.0 mn in the corresponding period in 2009 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The planned facility , estimated to cost around $ 814 million , would be the largest biodiesel plant in the world , and use palm oil certified by the Roundtable on Sustainable Palm Oil ( RSPO ) .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Savon koulutuskuntayhtyma , Finland based company has awarded contract for specialist agricultural or forestry machinery .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The tool is a patent pending design that allows consumers to lay out their entire project on a removable plate using multiple clear stamps of any kind .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish business software group AffectoGenimap Oyj said its net profit halved to 1.2 mln euro ( $ 1.5 mln ) in the first nine months of 2006 from 2.2 mln euro ( $ 2.8 mln ) in the same period of 2005 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "We offer our clients integrated management consulting , total solutions for complex projects and efficient , best-in-class design and supervision .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "With the acquisition , the company will expand its offering to North , Central and South America , it said .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The five-storey , eco-efficient building will have a gross floor area of about 15,000 sq m. It will also include apartments .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The chilled meat products category led the meat , fish and poultry market in Finland , accounting for a share of 31.4 % .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "M-Real said there are ` no grounds ' for the rumors , which ` have been circulating in the market for some months . '",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "France T+\ufffdl+\ufffdcom spent more time studying TeliaSonera than other potential takeover targets because it has a shareholder that wants to sell , Pellissier said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "According to Olvi 's Managing Director Lasse Aho , the company has an ongoing MMX Plus project that aims to find growth outside Finland .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while its market share by the number of customers amounted to 24 % as of late 2009 , up from 23 % as of late 2008 , according to TeliaSonera estimates .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Federal Secretary for Transport and Communication of Mexico has awarded Poyry and its Mexican partner Sintra a consulting contract in connection with the Buenavista-Cuautitlan suburban railway .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` Low energy consumption and flexible loading are just a few of the advantages of the CHF Pro . ''",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The trucks feature an Eco Drive system - a fuel measuring tool which stores data particular to individual drivers .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A paper mill in the central Maine town of Madison soon will have a new owner .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The carrier said its Area travel agency is to sell most of its outlets to sister chain Suomen Matkatoimisto (SMT)and use its remaining bricks-and-mortar presence to primarily target business customers going forward .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The price for logs has clearly improved from 2009 and also the price of pulpwood has gone up .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The chain posted sales of 298 million euros for full 2005 , a rise of 19.5 percent , year-on-year .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating loss totalled EUR 3.2 mn , compared to a profit of EUR 7.2 mn in the third quarter of 2008 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Boomerang Boats had net sales of EUR 4.1 mn and it made an operating profit of EUR 0.4 mn in 2006 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The winner does not have to be present to win .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "M-real Corporation Press release on 3 November at 10:35 am M-real Corporation was the second best company in the materials sector including e.g. forest industry companies in the Carbon Disclosure Leadership Index CDLI , Nordic Report 2009 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The service is intended to allow the people of thirteen Mediterranean countries to reach the Baltic more rapidly , with a single carrier .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "` It is a testament to the quality of our LTE solution and our commitment to the Japanese market ' , he added .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "That address also happens to house Italian megamart Eataly , meaning that `` Come on , kids , we 're going to the Toy Building ! ''",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The enterprise value of Maritim Food AS has been determined as approximately EUR15m .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Sales by Seppala diminished by 6 per cent .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` We are pleased with the efforts of both negotiating teams and look forward to a productive four years ahead . ''",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company will build altogether 130 new substations by the end of this year .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "It is hand-painted resin with real 14-0 trebles and is 75cm long by 25cm deep from top to bottom of the middle hook .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish retail software developer Aldata Solution Oyj reported a net loss of 11.7 mln euro $ 17.2 mln for 2007 versus a net profit of 2.5 mln euro $ 3.7 mln for 2006 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life insurance rose to EUR 5.2 mn from EUR 1.5 mn in the corresponding period in 2009 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "As a result , 12 people will be made redundant and a total of 67 persons are laid off temporarily .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In the Czech Republic , the profiling unit at Ostrava will be closed and the machinery will be relocated to Ruukki 's bigger plants in Hungary , Poland and Romania by the end of the first quarter of 2009 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A. Le Coq Special was developed for the bicentenary of the company and the trade mark , the brewer said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "They will be sunk to a depth of some 360-380 metres and fixed to the bottom mud by vacuum .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In the building and home improvement trade , net sales totalled EUR 1,173 mn , down from EUR 1,566 mn a year earlier .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The robust growth was the result of the inclusion of clothing chain Lindex in the Group in December 2007 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Comptel , a vendor of dynamic Operations Support System ( OSS ) software , has been selected by Orascom Telecom ( OTH ) as partner for provisioning and activation solutions for mobile services .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit excluding restructuring costs grew to EUR 44.5 million from EUR 31.7 million while operating profit including restructuring costs showed even larger growth to EUR 38.5 million from EUR 7.4 million .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "HK Ruokatalo now accounts for about 50 % of poultry sales in Finland , and profitability is at a good level .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The restructuring measures will not affect the production of packaging printing material .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "These moderate but significant changes resulted in a significant 24-32 % reduction in the estimated CVD risk .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "55 workers in +\ufffdm+\ufffdl will be affected by the close-down .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Swedish subsidiary holds 1.0 % net smelter return `` NSR '' royalties over two advanced copper projects in northern Sweden - the Viscaria and Adak Projects - being developed by Avalon Minerals Ltd. ASX : AVI .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operators only need to learn how to use one device for multiple levels of applications , including voice-directed operations .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The office space will rise above the remodeled Cannon Street underground station .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "from BUSINESS LINE , May 16 , 2008 Sriperumbudur , May 15 - Nokia 's two key suppliers - Aspocomp and Wintek - are likely to start operations within three months in the Nokia Telecom Park at Sriperumbudur , 45 km west off Chennai .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "He answers questions on how many visitors Conversations gets , how big the team is and what the problems are when setting up social media channels .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The sales price was not disclosed .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Proving that good cellphone design is truly a work of art , the website for the Nokia 6131 provides a colorful canvas for the expression of mobile-inspired sentiments .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "It said Comptel delivers reliable provisioning and activation solutions which improve fulfilment processes for operators .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "SSH Establishes New Global Sales and Marketing Group to be led by George Adams ; Adams Establishes Global Sales and Marketing Group to Drive Worldwide Programs Supporting SSH Tectia Enterprise Security Solutions",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Olli-Pekka Laine has been appointed as the Chairman and Erkki Pehu-Lehtonen as the Vice Chairman of the Board .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The contract includes software licences , application maintenance and training .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Cash flow from business operations totalled EUR 0.4 mn compared to a negative EUR 15.5 mn in the first half of 2008 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Ahlstrom Corporation STOCK EXCHANGE ANNOUNCEMENT 23.4.2007 Ahlstrom Corporation will publish its first quarter financial results 2007 on Friday , April 27 , 2007 approximately at 8.30 a.m. Finnish time .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish Vacon has signed significant deals with Norwegian Scandinavian Electric Systems ( SES ) on the supply of AC drives .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Comptel Corporation will publish its financial statements for 2008 on 12 February 2009 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Net sales have been eaten by the weak US dollar .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company said that its investments in the new market areas resulted in sales increase in Sweden , Poland , Russia and Lithuania .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Via the plant , the Belgian company will feed 8.4 MW of electricity into the distribution grid and will be able to deliver up to 14 MW of heat .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "HELSINKI AFX - Cargotec said it has bought a 95 pct stake in Indital Construction Machinery Ltd , a Bangalore-based company that makes fork lift trucks and mobile cranes , for an undisclosed sum .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The right margin will be viewed separately in detail with every customer .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "What would you like to see changed on Nokia 's next attempt ?",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "According to Finnish petrol station chain St1 's managing director Kim Wiio , the company was forced to make purchases with rising prices in the first half of 2008 , and now consumer prices are going down almost daily due to competition .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Comparable net sales are expected to increase more than 10 % in 2008 , in line with group target .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The restructuring creates a more efficient organization with increased operational focus and stable profitability , and leads to more efficient production , said Bo Annvik , head of Specialty Stainless .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Last year , 8.3 million passengers flew the airline , down 4 percent from 2007 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Both operating profit and net sales for the six-month period increased , respectively from EUR18 .1 m and EUR127 .6 m , as compared to the corresponding period in 2006 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The important thing now is to keep the bank 's existing 15,000 customers .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Only this time , Nokia , India 's largest MNC , has sought out a topic that could spark off a million approaches ` Creativity in Emerging Markets .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Repeats sees 2008 operating profit down y-y ( Reporting by Helsinki Newsroom ) Keywords : TECNOMEN-RESULTS",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "ALEXANDRIA , Va. , June 7 -- Michael G. Williams of Newbury Park , Calif. , has developed a network device .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A corresponding increase of 85,432.50 euros in Ahlstrom 's share capital has been entered in the Trade Register today .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The front surfaces of these valve plates are directed towards each other .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Tampere Science Parks is a Finnish company that owns , leases and builds office properties and it specialises in facilities for technology-oriented businesses .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` Soon after , the collisions started . ''",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Kalmar has been awarded a new 5-year contract to supply its Rough Terrain Container Handler RTCH .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The relocation of Ragot has already started and will be completed in the next few weeks , with the Waterqueen and Tortue moves planned for mid-2008 and VMC Europe during the third quarter of 2008 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In beers , Olvi retained its market position .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Finnish company sold its UK operation - consisting of 50 staff in offices in London , Birmingham and Manchester - as part of a deal with Hampden in July 2001 for its European-wide property and casualty arm Sampo Industrial .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Both operating profit and turnover for the six-month period increased , respectively , from EUR17 .6 m and EUR1149 .9 m , as compared to the corresponding period in 2007 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish construction group Lemminkainen Oyj HEL : LEM1S said today it has won a contract to provide technical services for the Nevsky Centre shopping mall to be opened in November in St Petersburg , Russia .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Nokia will continue to invest in future development of Qt , and Digia will be responsible for commercial licensing and services business .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Amanda said that it had already made a USD5 .0 m investment commitment in Russia Partners II fund in July 2005 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Net interest income was EUR 152.2 mn , up from EUR 101.0 mn in 2008 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A meeting of Glisten shareholders to vote on the bid will be held on 12 March .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnair 's Tallinn-based subsidiary , Aero AS , carried 23,335 passengers , a decline of 60.8 % , on routes between Helsinki and the Baltic capitals and within Southern Finland .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` However , the rapidly increasing costs and the strengthening of the euro were challenging for the whole industry , and they impacted on our results . ''",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Feed companies Suomen Rehu and Raisio do no import GMO feed .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "They re in a race with Google to get lots of users onto their service as social networking creates new business models , said Martin Garner , a London-based analyst with CCS Insight .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The operating margin came down to 2.4 % from 5.7 % .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "There are companies , which are ready to invest their own funds in this deal such as Rostelecom RTS : RTKM .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "25 March 2011 - Finnish electronics contract manufacturer Scanfil Oyj HEL : SCF1V said today its plan to merge wholly owned Scanfil EMS Group with Ojala-Yhtyma Oy has hit a snag as shareholders of the domestic rival rejected the deal .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The mill is concentrating on getting the supercalendered line running satisfactorily before restarting its older newsprint line .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "To ensure low operational cost for radio networks , the BTS modules can be configured , software upgraded and diagnosed remotely .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit was EUR 9.8 mn , compared to a loss of EUR 12.7 mn in the corresponding period in 2009 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "New Chairman of the Board of Directors , Mr Chaim Katzman , will give a presentation and answer questions .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The sale , comprising the margarine business in Finland and Poland , follows the approval of the Polish competition authorities earlier in October .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish power company Fortum reports 89 % of its electricity was generated without carbon dioxide emissions in 2007 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Ingen is an established medical device manufacturer with an emerging new medical product line for the respiratory market worth an estimated $ 4 billion in the U.S. and $ 8 billion globally .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Russian government will contribute 20 % of the necessary funds , he said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The expanded company will continue to be called NewPage .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "EBIT excluding non-recurring items , totalled EUR 67.8 mn , up from EUR 38.1 mn .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "GENEVA , Feb. 10 -- Tero Aaltonen , Finland has developed a radio resource control method .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "It is planned to set up the A class business center in the two top storeys of the complex .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The sale , which will result in a gain of some EUR 60 million in the second quarter of 2010 for Oriola-KD , supports the Finnish company 's strategy to focus on pharmaceutical wholesale and retail operations .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` Social networking and location-based service trends comprise a significant share of the Internet traffic today and are appealing to MID users .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The order was valued at over EUR15m .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` After the transaction , Tikkurila has no powder coatings-related operations , '' the company said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A downloadable instruction sheet , instructional video , and project ideas for the award-winning Everywhere Punch TM Window System can be found at www.fiskars.com .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "20 October 2010 - Finnish metal products company Componenta Oyj HEL : CTH1V said yesterday that its net loss narrowed to EUR7m for the first nine months of 2010 from EUR23 .3 m for the same period of 2009 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "20 October 2010 - Finnish environmental management company Lassila & Tikanoja Oyj HEL : LAT1V , or L&T , said Monday it expects its operating profit , excluding non-recurring items , for the whole 2010 to be slightly lower than in 2009 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Earnings per share were EUR -0.04 -0.06 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Satama earned Data Management Solutions competency with Business Intelligence specialization recentlyvia the acquisition of Fimentor Oy .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "4 February 2011 - Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said Wednesday its net profit rocketed to EUR4 .8 m in 2010 from EUR416 ,000 in 2009 and it lifted its dividend proposal .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "About 36 % of this came from Aspo Chemicals , 39 % from Aspo Shipping and 25 % from Aspo Systems .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` We have tailored our solutions to meet Solel 's technical requirements , and the result is both cost-effective manufacturing and highest-quality reflectors . ''",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "- The Group -\ufffd s sales during the period were EUR 31.6 million EUR 36.6 million , 1-6/2007 and profit before taxes was EUR 0.2 1.3 million .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Stora Chief Executive Jouko Karvinen has described the Russian tariff hikes as a threat to the future of the forest products industry in Finland .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Empresa de Desarrollo Urbano de Quito , INNOVAR-UIO , Ecuador has commissioned Poyry to prepare a feasibility study for a new urban rapid mass transit system .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "UPM-Kymmene said its has ` not indicated any interest in any domestic consolidations ' .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The chain is to unite 45-50 centres by the end of 2008 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The seminar introduced modern , clean technologies and products , financial tools and sponsorship programs for energy and environment projects as well as the potential to develop clean energy in Vietnam .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Employees are also better prepared to answer calls , since they already have detailed information about the caller before they answer the phone . ''",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Vaisala 's net profit for the third quarter of 2007 dropped to 3.0 mln euro ( $ 4.3 mln ) from 6.8 mln euro ( $ 9.8 mln ) for the same period of 2006 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "To raise consumer awareness and encourage people to recycle their old mobile devices Nokia runs regular recycling campaigns around the world .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The first charging stations will be made available already in 2008 and a whole network is to be ready in 2010 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Capitex Kalmar will continue to be responsible for the maintenance and technical development of the services .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "DMASIA-16 August 2006-Benefon extends manufacturing capability with ASMobile -\ufffd 2006 Digitalmediaasia.com & DMA Ltd. .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Americas represents 25 % of Gemalto 's billing , and Latin America is one of the fastest growing regions for the company .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Comparable operating profit decreased to EUR 13.8 mn from EUR 17.1 mn in the corresponding period in 2005 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Incap Contract Manufacturing Services Private Limited has inked agreements with six new customers in India .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating loss totaled EUR 25mn compared to a profit of EUR 63mn in the corresponding period in 2005 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "BAVARIA Industriekapital AG 's 2006 revenues were EUR 333 million , with an EBITDA of EUR 51 million .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "It 's `` finger-friendly '' , and to my opinion , really fast .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The approximately 20,000 dwt vessel has been ordered from India .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Combining this deep domain expertise with our Application Service Management ASM and outsourcing service offerings has now proved to be a winning combination .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dolce & Gabbana has asked the European Union to declare Marimekko Corporation 's `` Unikko '' floral pattern trademark invalid , in a continuing dispute between the two companies .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Karppinen expects the consolidation trend to continue in the Finnish market .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In a letter to Economic Affairs Minister , the listed Estonian shipping company Tallink asks for the approval to be entitled to a 15 % cut in port fees in 2010 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Mr Ashley , deputy executive chairman of Sports Direct , sold a 43pc stake in the company for more than pounds 900m at the time of the float .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "I can say categorically , no , ' Wahlroos was quoted as saying by the paper , when asked about Sampo 's interest in making a bid for RSA .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The total value of the deal is USD 29mn .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` In Ukraine , too , we act as a partner for major bakery clients in both production and product development .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for use in Talvivaara 's leaching process during the period of supply of the zinc in concentrate .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "According to the prosecutor , the share transactions were carried out after HK Ruokatalo had proceeded in the negotiations concerning the acquisition of Swedish Meats .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The works will include the laying of natural stone pavements and the installation of underground heating , and surface water drainage systems .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "More than 14,000 customers were left powerless .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Vianor sells tires for cars and trucks as well as a range of other car parts and provides maintenance services .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Deliveries will start in the second half of 2007 and the start-up of the mill is scheduled for 2008 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finland-based Elcoteq SE , a privately held provider of electronics manufacturing services to communications companies , said Thursday it signed a long-term manufacturing supply deal with communications equipment company Andrew Corp. .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` Our decision and resolve on MeeGo is only stronger , '' she continued .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The cost of the deal could range from 70 million to 90 million euros depending on the financial results of the two companies in 2008 , the statement says .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "M-real 's sales are expected to have increased by 4 % year-on-year to EUR609m in the second quarter of 2010 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dealers said the share was largely hit by investor disappointment about a refining margin of just 9.48 usd per barrel for the quarter and the performance of its shipping unit , which saw EBIT drop to 5 mln eur from 20 mln eur a year amid a fall in volumes and tanker rates .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish software developer Basware Oyj said on November 30 , 2006 its U.S. subsidiary Basware , Inc. won an order to provide software for contract lifecycle management to an unnamed U.S. medical technology company .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Profitability ( EBIT % ) was 13.6 % , compared to 14.3 % in Q2 2009 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "( ADP News ) - Feb 4 , 2009 - Finnish broadband data communication systems and solutions company Teleste Oyj ( HEL : TLT1V ) said today its net profit decreased to EUR 5.5 million ( USD 7.2 m ) for 2008 from EUR 9.4 million for 200",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Tekla Group 's net sales for 2006 were approximately 50 million euros and operating result 13.6 million euros .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Following the issue , the new shares will constitute 10 percent of the firm 's capital .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Yesterday , Legrand issued its E300 million fixed rate deal maturing 2017 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company supports its global customers in developing new technologies and offers a fast route from product development to applications and volume production .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A portion , $ 12.5 million , will be recorded as part of its winnings in a prior patent dispute with Finnish phone maker Nokia Oyj .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "A PLUMBING business has announced it is sponsoring a professional darts player .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Comptel Corporation Sami Ervio President and CEO , Distribution : NASDAQ OMX Helsinki Major media Comptel Dynamic OSS solutions enable telecom service providers to deliver services flexibly and charge them effectively .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Teleste has some 30 offices worldwide and is listed on the Nordic Exchange in Helsinki .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "However , the production is almost entirely very labor intensive and based on small investments only .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Annual General Meeting approved that the yearly remuneration for the members of the Board of Directors shall remain at EUR 40.000 for the Chairman of the Board , EUR 30.000 for the Deputy Chairman of the Board and EUR 20.000 for other members of the Board .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Russia wants to utilise its huge forest reserves in a very different way from what has been done so far .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Amanda Capital has investments in 22 private equity funds and in over 200 unquoted companies mainly in Europe .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Nordea sees a return to positive growth for the Baltic countries in 2011 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The pretax profit of the group 's life insurance business increased to EUR 36 million from EUR 27 million .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish messaging solutions developer Tecnomen Corporation ( OMX Helsinki : TEM1V ) said on Thursday ( 11 December ) that it has received an expansion order for its Convergent Charging solution in Latin America .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Body ES Vostok also owns stakes in power sales companies MosenergosbytBody ( RTS : MSSB ) ( 50.9 % ) , Altaienergosbyt ( 100 % ) , Saratovenergo ( RTS : SARE ) Body ( 48.36 % ) and Tambov Power Sales Company ( RTS : TASB ) ( 49.01 % ) , all ofBodywhich it received from the distribution balance .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company expects meat purchases to remain at about 8mn kilos in 2011 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Moscow Metro ( www.mosmetro.ru ) was the first metro system in Europe to implement smart cards together with a new type of magnetic card in 1998 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "No planned closing date was provided .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "We are honored to be acknowledged for our commitment to the industry , especially in Asia Pacific . ''",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The order is a follow-on to an 11 mln euro ( $ 16.1 mln ) deal made in July 2007 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "STUK today is a full service house expert in radiation and nuclear safety issues .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` We reached agreement with the union that flights will continue as normal , '' Finnair spokesman Usko Maatta said .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The product advisory does not apply to any other Nokia-branded battery , the company said .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The new Kroksberg railway tunnel will be built on a new section of track between Harnosand and Veda , forming part of the line that follows the coast of the Gulf of Bothnia .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The contract is for next year .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "This is a much better process than using virgin paper as it requires less transportation of wood pulp from places like Finland and Canada .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The company is involved in the the sale of financial products including insurance , mortgages , car and personal loans , financial brokerage and equipment finance leasing .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "RSA 's shares closed at 156.9 p at the time of going to press .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "We serve a broad range of customers , including construction and process industries , shipyards , the public sector and households .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` The acquisition of Sampo Bank makes strategic sense for DB , '' says Lindsey Liddell , director of Fitch Ratings 's Financial Institutions Group .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish silicon wafers maker Okmetic Oyj said on September 17 , 2008 that it will invest a total of 15 mln euro $ 21.3 mln in its sensor wafer business .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "As a result , the distribution companies will start to distribute , in addition to their current product offering , Shimano reels , rods and other Shimano fishing tackle products on an exclusive basis .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Together with Latvia , Cramo will operate 54 rental outlets in the Baltic States .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The parties have also agreed that L+\ufffdnnen Tehtaat has the right to sell the remaining shares in Suomen Rehu to Hankkija-Maatalous 15 months after the purchase of the majority holding , at the earliest .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The soapstone deposits in the Medvezhyegorsk area are expected to increase Tulikivi 's current reserves considerably .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The executive said that countries such as Brazil , Chile , Argentina and Mexico will lead the adoption in the business Ethernet services segment , while Brazil and Mexico will be the early adopters of carrier Ethernet for mobile backhaul .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The net sales decreased to EUR 49.8 million from EUR 59.9 million .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The fair value of the company 's investment properties went down to EUR 2.768 billion at the end of 2009 from EUR 2.916 billion a year earlier .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "SRV will raise its holding in the company so that by the summer of 2008 , it will have a majority .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Their names have not yet been released .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish L&T Recoil , a company specialising in used oil regeneration , is building a facility in Hamina in Finland in 2008 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The four-year contract between the bank and Ski Sport Finland will bring the bank 's advertisements to skiers helmets and caps .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Swedish player became majority owner of UCell in mid-2007 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Short-term licenses for the games cost as little as $ 3 while purchasing a game outright can cost as much as $ 10 or $ 15 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Earnings per share ( EPS ) amounted to EUR0 .98 , up from the loss of EUR0 .02 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Raute said it has won an order worth around 15 mln eur to supply several plywood production lines to mills operated by Russian wood products company Sveza Group .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "At the seminar , a memorandum of understanding on co-operation was signed between the Finnish Kemira Company and Vietnam National Chemical Corporation .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "As the world leaders in developing UV technology for municipal wastewater , drinking water , and industrial water treatment systems , Trojan Technologies was a logical partner in providing W+\ufffdrtsil+\ufffd with UV technology for ballast water treatment .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Pharmaceutical market in Poland Global Research & Data Services published recently a market analysis about the pharmaceutical markets in Poland .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Only L+\ufffdnnen Tehtaat showed a loss , but it has only recently started streamlining measures .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "This amount will not be included in the pensionable salary .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The world of glass is coming to Egypt and we invite Visitors from all around the world to attend Glass World Exhibition 2009 , Register Now at www.glassworldex.com",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The bank forecasts Finland 's GDP will grow by 2 % in 2010 and in 2011 .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In the third quarter of fiscal 2008 Efore swung to a net loss of EUR 400,000 versus a net profit of EUR 200,000 for the corresponding period of fiscal 2007 .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In the second quarter of 2009 , net sales through operator business partners represented 47 % of the Group 's total net sales .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The e-commerce site and flagship will be managed by Marimekko North America Retail LLC , a subsidiary established in the U.S. last year .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish M-real 's Kyro mill is starting negotiations to cut staff .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The device offers multimedia performance along with a host of productivity applications , including live stock prices .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Chic and cheerful , Finnish design house Marimekko has been sending its geometric textiles out into the world for the past 60 years .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The terms and conditions of the Stock Option Scheme 2008 are available on the Company 's internet pages www.sanoma.com .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Full-year operating result for 2008 was 3.6 million negative .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` We will now , after the relevant authority approvals , make a mandatory bid as required by the Finnish Securities Markets Act .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Koff 's market share of the volume of the market was 23.4 % , Karhu 's 21.4 % .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Danske Bank A-S DANSKE DC jumped 3.7 percent to 133.4 kroner , rebounding from yesterday s 3.5 percent slide .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "In 2008 , the deal is likely to bring savings of EUR 20mn-25mn .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish bank Alandsbanken said Monday it will buy the Swedish operations of Iceland 's troubled Kaupthing Bank for 414 million kronor $ 49.5 million in cash .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The solution will now be expanded to include all ground staff tasks .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Currently the quarterly applied surcharges differ significantly from the actual market prices .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "`` Russia is ready to participate in an open tender for Lattelecom 's privatization .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit rose to EUR 4.7 mn from EUR 3.6 mn .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Finnish Rautaruukki is selling its precision tube and automotive component processing unit Carl Froh in Germany to German Arques Industries .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Insolvency Act regulates the amount of debt that borrowers are permitted to write off .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Operating profit margin was 8.3 % , compared to 11.8 % a year earlier .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The reductions will be concluded by autumn 2010 .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Salcomp Oyj , the Finnish maker of mobile phone chargers , Monday posted a EUR1 .49 million loss in the second quarter compared with a 1.70 million profit in the same period the previous year .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The Efore plant at Saarijarvi in central Finland is one of the largest employers in the region .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Compagnie de Financement Foncier - Is to issue a benchmark , 10 year covered deal in Euros .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Los Angeles-based Pacific Office Properties Trust acquires , owns , and operates office properties in the western U.S. , focusing initially on the markets of Honolulu , San Diego , Los Angeles , and Phoenix .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The value of the multi-year agreement is over EUR 2mn a year .",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "The airline estimated that the cancellation of its flights due to the closure of European airspace , and the process of recommencing traffic , have caused a the company a loss of EUR20m , including the costs of stranded passengers ' accommodation .",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Talvivaara has secured a 10-year off-take agreement for 100 per cent of its main output of nickel and cobalt to Norilsk Nickel and entered into a long-term zinc streaming agreement with Nyrstar NV .",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "( ADP News ) - Feb 6 , 2009 - Finnish fishing tackle company Rapala VMC Corp ( HEL : RAP1V ) said today its net profit rose to EUR 19.2 million ( USD 24.6 m ) for 2008 from EUR 17.5 million for 2007 .",
+    "output": "positive"
+  }
+]

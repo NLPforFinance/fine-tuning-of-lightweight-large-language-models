@@ -1,0 +1,937 @@
+[
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$TZOO a close above 28.64 and we are ready to rock and roll",
+    "output": "positive: 0.308"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$LNT Increases Annual Dividend Target to $1.80/Share from $1.70/Share",
+    "output": "positive: 0.324"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up",
+    "output": "negative: 0.363"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$IWM relative weakness is pretty apparent but the short boat is getting full on this one. I prefer the boat closer to empty.",
+    "output": "negative: 0.262"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Micron Technology Inc #NASDAQ: $MU down 2.3% today and down 8.9% since being put on \"The Short\" https://t.co/EQQLTfUiOU",
+    "output": "negative: 0.469"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "CompaniesFresnillo shares jump 8% as silver price breaks $21",
+    "output": "positive: 0.874"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Long $PCLN",
+    "output": "positive: 0.663"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AMRN You can many times find top and bottoms when shorts start rejoicing or bulls start rejoicing. Currently it is the shorts rejoicing",
+    "output": "negative: 0.54"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP",
+    "output": "negative: 0.267"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "RT @Street_Insider The Steve Jobs Effect? Apple $AAPL First Day iPhone 4S Sales Were Off the Charts http://stks.co/YYe",
+    "output": "positive: 0.539"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Unilever profit rises despite sales slump in China",
+    "output": "positive: 0.213"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Royal Mail gets mixed bag from Ofcom postal regulation report",
+    "output": "neutral: -0.084"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SPY bull move ended waiting for next setup",
+    "output": "negative: 0.204"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+    "output": "positive: 0.259"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$UBNT still having some trouble at the resistance line. Should resolve soon.@cheri1 @strattonite   http://stks.co/c0sU4",
+    "output": "neutral: 0.071"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Aviva shuts Friends Life head office in rapid integration move",
+    "output": "neutral: -0.09"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco breaks its downward slide by cutting sales decline in half",
+    "output": "neutral: 0.172"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Standard Chartered Shifts Emerging-Markets Strategy After Losses",
+    "output": "negative: 0.461"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra",
+    "output": "positive: 0.385"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "FTSE falls to 3-month low on Greek debt concerns, easyJet skids",
+    "output": "negative: 0.414"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "InterContinental Hotels first-quarter global room revenue lags estimates",
+    "output": "negative: 0.329"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "RT @alphatrends VMarkets Are Still Acting Weak http://stks.co/1agn  $SPY $QQQ $XLF $SMH $IWM",
+    "output": "negative: 0.443"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "LSE-Deutsche Boerse merger would signal end to exchange mega-deals",
+    "output": "neutral: 0.105"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "EU drops Shell, BP, Statoil from ethanol benchmark investigation",
+    "output": "positive: 0.276"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Profit taking on $AAPL this morning?  That has to be the pressure on the stock.  I'm still bullish on $AAPL.",
+    "output": "positive: 0.222"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@pierrules: $SIRI LONG!!",
+    "output": "positive: 0.759"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco set to sell Kipa, Giraffe businesses - Sky News",
+    "output": "positive: 0.23"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$CTRP just broke resistance, watching for a #redtogreen #breakout right out of the gate tomorrow morning. #stocks https://t.co/8VXFUUIt04",
+    "output": "positive: 0.598"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Lloyds to cut 945 jobs as part of three-year restructuring strategy",
+    "output": "negative: 0.532"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for \u00c2\u00a390m",
+    "output": "neutral: -0.038"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$BBRY Ready for Take OFF!",
+    "output": "positive: 0.472"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Carnival Corporation and China Merchants Group Sign Memo of Understanding ...",
+    "output": "neutral: 0.119"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$NFLX Easy pop to 500$ by end of feb.. Then steady as she goes for 600 into second earnings report..800$ year end no matter what",
+    "output": "positive: 0.577"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$CRM Sep 40 calls are +35% since entry #BANG http://stks.co/deDm",
+    "output": "positive: 0.519"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SLV -4.44% at 18 now AWFUL, down from 42.50",
+    "output": "negative: 0.591"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",
+    "output": "positive: 0.323"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Royal Dutch Shell profit rises; dividend up 4%",
+    "output": "positive: 0.65"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@louiebeene vwap is 1.63, held the trend line. Should be on a LOT of radars. $NAVB",
+    "output": "positive: 0.325"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high",
+    "output": "positive: 0.272"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Germanwings disaster will not affect image of budget air travel - easyJet",
+    "output": "neutral: -0.046"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",
+    "output": "neutral: 0.133"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "ARM Royalties Accelerate as Smartphone Market Regains Strength",
+    "output": "positive: 0.571"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ilmn piper Jeffries raises pt.  I remain long",
+    "output": "positive: 0.467"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "I'm liking the price action in $SWKS, currently @21.80 ; my target: 24.00+ before year end.",
+    "output": "positive: 0.603"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AAPL double bottom could be in, keep in mind",
+    "output": "positive: 0.271"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA https://t.co/Vt6T5Zp2is",
+    "output": "positive: 0.248"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Long Position on $GOL,...Updating http://stks.co/fdmm",
+    "output": "positive: 0.674"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm",
+    "output": "negative: 0.678"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "BAE Systems's sales boosted by European Typhoon and currencies",
+    "output": "positive: 0.39"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$NFLX and $TSLA making all kinds of gains \ud83d\udcc8",
+    "output": "positive: 0.42"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Lloyds Banking Group's share price lifts amid reports bank is poised to axe hundreds of UK jobs",
+    "output": "positive: 0.292"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$IBIO  up 10% in premarket ready for lift off",
+    "output": "positive: 0.507"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Friends Life lifts profits 38% and hikes divi ahead of proposed Aviva takeover",
+    "output": "positive: 0.387"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank",
+    "output": "positive: 0.213"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SINA even though the \"report\" is untrue and has been proven unture, the damage is done. No one wants to touch it now",
+    "output": "negative: 0.55"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+    "output": "positive: 0.293"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "NYSE owner ICE considers offer for LSE",
+    "output": "positive: 0.396"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "EasyJet attracts more passengers in June but still lags Ryanair",
+    "output": "positive: 0.259"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "#Apple breaks major support, here are some levels to watch - http://stks.co/jRmW $AAPL $QQQ",
+    "output": "negative: 0.455"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "WPP, World's Largest Ad Agency, Reports Strong 2015 Growth",
+    "output": "positive: 0.555"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "London open: Taylor Wimpey and Ashtead drive markets higher, Barclays falls",
+    "output": "positive: 0.508"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",
+    "output": "negative: 0.222"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",
+    "output": "positive: 0.517"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Apple: Another attempt to break out on Apple but with weak PVT   $AAPL #Trading #investing #aapl https://t.co/DNh7Hgv22V",
+    "output": "neutral: 0.138"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Standard Life share price: Insurer buys advice firm Pearson Jones",
+    "output": "positive: 0.364"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SPY weak close",
+    "output": "negative: 0.297"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$HPQ Says Breakup Will Cost Billions, but Sees Savings Too http://stks.co/p27hZ",
+    "output": "negative: 0.265"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Morrisons finance chief to fill gap as CEO leaves early",
+    "output": "neutral: -0.114"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance",
+    "output": "positive: 0.492"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$CIEN http://stks.co/dZU CIEN seems to have broken out of a major horizontal resistance. Targets $14.35.",
+    "output": "positive: 0.345"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "New Credit Suisse boss faces stiff challenge in Asia",
+    "output": "neutral: -0.181"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "BG Group Still Happy With Shell's $70 Billion Offer",
+    "output": "positive: 0.235"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Morrisons book second consecutive quarter of sales growth",
+    "output": "positive: 0.43"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Aviva, M&G suspend property funds as investors panic",
+    "output": "negative: 0.807"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$FB SHIFTING ON THE 15 MINUTE HERE - SUSPECT TO TAKE HIGHS",
+    "output": "positive: 0.442"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$GILD Sandbagged the guidance so the can use that last 3 billion up.  CC was cautiously optimistic, wait til Next ER for confirmation",
+    "output": "neutral: -0.083"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "BHP Billiton slashes dividend, posts $5.67 billion net loss",
+    "output": "negative: 0.341"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66",
+    "output": "neutral: -0.019"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AAPL near a 3% drop thats a lot... now the best i can do is HOLD ER lol",
+    "output": "negative: 0.304"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank",
+    "output": "positive: 0.843"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Key level to watch in $FB for today is 25.53-- watching to see if it can hold as support http://stks.co/bOH4",
+    "output": "neutral: -0.042"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$TSLA upgraded to Buy @ Argus w/ $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal",
+    "output": "positive: 0.349"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal",
+    "output": "positive: 0.818"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$FB I've been dead on so far. Such a bloated valuation. https://t.co/czCf8Kbrlt",
+    "output": "negative: 0.536"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "U.K. Stocks Resume Gains to Rally to Record; CRH, Tullow Climb",
+    "output": "positive: 0.544"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Warren Buffett defends Berkshire Hathaway's conglomerate structure",
+    "output": "neutral: 0.144"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",
+    "output": "neutral: 0.103"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ENDP being sued by FTC.....nobody will buy them with that hanging over their heads",
+    "output": "negative: 0.602"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY",
+    "output": "negative: 0.371"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?)",
+    "output": "positive: 0.408"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SPY Less than 0.2% down and people are calling it bearish. Some heading for exits already. Maybe 1% down will be \"the crash\"? Disturbing!",
+    "output": "neutral: -0.148"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$STX long play, another consistent profit zone.. check it out https://t.co/DQfuzOzYlh https://t.co/ggne4ayzqn",
+    "output": "positive: 0.48"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "FDA panel backs safety updates for AstraZeneca, Takeda drugs",
+    "output": "neutral: -0.198"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$GPS Gap September Comparable Store Sales -4%",
+    "output": "negative: 0.441"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Johnson Matthey raises prospect of investor payout",
+    "output": "positive: 0.281"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !",
+    "output": "positive: 0.414"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$HITK  Resuming advance into new historical highs.",
+    "output": "positive: 0.68"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "RT @StockTwits RT @fallondpicks Breadth Consolidates: After weeks of steady gains,advances in mkt breadth slowe... http://stks.co/2TrG $QQQ",
+    "output": "neutral: -0.146"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Investors Remain Skeptical About Shell-BG Deal",
+    "output": "negative: 0.266"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Amazon to attack UK grocery market with Morrisons deal",
+    "output": "positive: 0.333"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$BBRY Sierra. Has a great cash balance and impressive growth rate.Would be a wonderful marriage!",
+    "output": "positive: 0.493"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ARIA This is the reason why shorts don't show up...long steady small climbs. The best way to accrue value. IMO",
+    "output": "positive: 0.484"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",
+    "output": "positive: 0.284"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "UK's FTSE has worst day so far in 2015 as BG and Prudential fall",
+    "output": "negative: 0.651"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.",
+    "output": "positive: 0.395"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tullow Oil Suspends Dividend Amid Oil Price Fall",
+    "output": "negative: 0.498"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong",
+    "output": "positive: 0.257"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "AstraZeneca's patent on asthma drug invalidated by US court",
+    "output": "negative: 0.656"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "#LongPos $TSLA 256 Break-out thru 50 & 200- DMA (197-230) upper head res (274-279) Short squeeze in progress Nr term obj: 310 Stop loss:239",
+    "output": "positive: 0.504"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "EU drops Shell, BP, Statoil from ethanol benchmark investigation",
+    "output": "positive: 0.294"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@CH_Roark: $UNXL I like this Ascending Triangle on the 30-minute chart. Breakout coming Monday! http://stks.co/aT3GLooks promising.",
+    "output": "positive: 0.478"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for \u00c2\u00a390m",
+    "output": "positive: 0.365"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "NaturalGas Settles At 3-year Low $DBO $BNO  http://stks.co/d27qX",
+    "output": "negative: 0.563"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 ...",
+    "output": "neutral: -0.12"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame",
+    "output": "positive: 0.295"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank",
+    "output": "positive: 0.211"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$SAVE breaking it's downtrend line on increasing volume. A move above 20.57 could see more upside. http://stks.co/l8y4",
+    "output": "positive: 0.546"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@SOULLOR the regular scrappy Q $SWY usually presents. Sales weak, margins down, debt still way up.",
+    "output": "negative: 0.515"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$YNDX and the price of some stocks was 2 times lower then annual earnings, I could not resist, I  was buying when everyone was selling",
+    "output": "positive: 0.531"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "CompaniesMeggitt profits hit by weak energy and military markets",
+    "output": "negative: 0.302"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$BBRY nice bounce",
+    "output": "positive: 0.296"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "News FeedSchroders books solid earnings growth, several board changes",
+    "output": "positive: 0.5"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Berkshire discloses unit's ties to Iran, opens probe",
+    "output": "negative: 0.288"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "UPDATE 1-BP shareholders back more disclosure on climate change risks",
+    "output": "neutral: 0.037"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@Intuitiv $CLNE gasoline prices spike in California. http://stks.co/t1bOi",
+    "output": "positive: 0.46"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale",
+    "output": "positive: 0.329"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY",
+    "output": "negative: 0.342"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Morrisons and Debenhams surprise City with Christmas bounce back",
+    "output": "positive: 0.573"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Aberdeen AM posts H1 outflows, says conditions to remain challenging",
+    "output": "negative: 0.364"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.",
+    "output": "negative: 0.373"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$TROW Ascending triangle gives a bullish bias to this chart. Breakout above 84 will be positive http://stks.co/g0ls5",
+    "output": "positive: 0.544"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Glencore Cuts 2015 Budget, Plans To Divest From Lonmin",
+    "output": "negative: 0.314"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$IFF technical alerts: Stochastic Sell Signal, 200 DMA Support, and 50 DMA Support  http://stks.co/p12QY",
+    "output": "negative: 0.471"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan",
+    "output": "negative: 0.266"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Long $VVUS shares as a call option w/ an expiration of..  umm.. TODAY.    Hitting HOD here.",
+    "output": "positive: 0.609"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$UGAZ Will this cold put a dent in the massive horizontal rig production. Who knows  http://stks.co/p1V6P",
+    "output": "negative: 0.237"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "4 beaten-down Internet companies that may be ripe for a #takeover target: #Twitter $TWTR - #LinkedIn $LNKD - #Yahoo! $YHOO - #Groupon $GRPN",
+    "output": "neutral: 0.129"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Randgold profit hit by poor gold price but dividend still increases",
+    "output": "neutral: -0.052"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$CYTX looks like an ascending channel on Finfiz http://stks.co/f26r4",
+    "output": "positive: 0.363"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$EBAY had a nice breakout of the recent consolidation. Congrats to those who had it. http://stks.co/2TAd",
+    "output": "positive: 0.452"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$FB trending nicely, intraday.",
+    "output": "positive: 0.404"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "RBS chairman admits surprise at size of regulatory penalties",
+    "output": "negative: 0.333"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$RSH - looking for first profitable quarter in 3 years!!!  ;).  LONG & STRONG",
+    "output": "positive: 0.643"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AXDX I got bored, and took my proprietary profit exit. I didn't like the option liquidity and lousy spreads.",
+    "output": "negative: 0.334"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017",
+    "output": "positive: 0.439"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "longed $AMZN 300 @ 189.82",
+    "output": "positive: 0.65"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "CompaniesLSE adds ex-SEC head Schapiro to board",
+    "output": "neutral: 0.076"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Lots of metal stocks look like a 5-10% run awaits. Long $SSRI,$PAAS and $NEM but most high quality names should go if metal prices cooperate",
+    "output": "positive: 0.394"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$KITD Looking for a oversold bounce.",
+    "output": "positive: 0.436"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO",
+    "output": "positive: 0.234"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$CHRM Loooooongggggg base",
+    "output": "positive: 0.557"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$TSLA You have to love these types of articles. SS interest rose on 12/15 on day before we hit our lows. http://stks.co/c1QKr",
+    "output": "negative: 0.405"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Goodwin not to face Scottish prosecution over RBS",
+    "output": "neutral: 0.114"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$DXCM - Making higher highs & higher lows as it consolidates over past several weeks. 26.70 was all time high (2006).",
+    "output": "positive: 0.478"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$BOBE down $2.84  premarket",
+    "output": "negative: 0.512"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Sainsbury CFO Rogers to Replace Home Retail CEO Walden",
+    "output": "neutral: 0.0"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "AstraZeneca suffers setback after drug fails to treat eye cancer",
+    "output": "negative: 0.392"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Entertainment One dispels ITV takeover rumours",
+    "output": "neutral: 0.003"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tesco share price down as grocer faces SFO investigation outcome",
+    "output": "negative: 0.542"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "UPDATE: Persimmon Profit Up Strongly, Outlook Positive",
+    "output": "positive: 0.937"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$spy $vxx $aapl the parties over loaded on $uvxy volatility is back",
+    "output": "negative: 0.223"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$NFLX +3% of the lows",
+    "output": "positive: 0.323"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital",
+    "output": "positive: 0.261"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA",
+    "output": "negative: 0.308"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Bilfinger Industrial Services win \u00c2\u00a3100m BP contract extension",
+    "output": "neutral: 0.113"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Should You Follow Berkshire Hathaway Into Apple Stock?",
+    "output": "neutral: 0.0"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Nasdaq Sets Up for Breakout Part II | via @AllStarCharts http://stks.co/15Nv  $GOOG $AMZN $QCOM",
+    "output": "positive: 0.396"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings",
+    "output": "negative: 0.308"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ETN UPGRADE today by MS to overweight.  Excellent company and leadership",
+    "output": "positive: 0.685"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$GOOGL Hit With Lawsuit from Russian Search Engine $YNDX http://stks.co/b1kD8",
+    "output": "neutral: -0.17"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Shell to buy BG Group in $69.7 billion takeover",
+    "output": "positive: 0.25"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Deutsche Bank cuts $SBUX",
+    "output": "negative: 0.539"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "what #stocks large players are selling http://stks.co/t0Vel $CROX $GOGO $INO",
+    "output": "negative: 0.507"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "@chessNwine: $IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20.  http://stks.co/r0KKm",
+    "output": "negative: 0.382"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Australia clears AB Inbev's $100 billion SABMiller buyout plan",
+    "output": "positive: 0.437"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...",
+    "output": "positive: 0.623"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$HZNP havent seen vol like this since the runup. lets see one more dip to 2.0x",
+    "output": "negative: 0.274"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AAPL short some 592.49",
+    "output": "negative: 0.464"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$isrg trading at all-time high after strong earnings report with 4 days of short interest.",
+    "output": "positive: 0.729"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$AAPL wants lower. up waves getting smaller on the 2 min",
+    "output": "negative: 0.37"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "AstraZeneca shares climb 3% as drug maker ups profits forecasts",
+    "output": "positive: 0.64"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Tata Steel working with StanChart for UK unit sale - source",
+    "output": "neutral: 0.143"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "i-Grid shows $DIA capped for the long term at range of 123.40- 124.77;any rally beyond today's levels or into this range leads to meltdown.",
+    "output": "neutral: -0.172"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.",
+    "output": "positive: 0.315"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$GTE LONG at 7.44",
+    "output": "positive: 0.732"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "$ES_F. Nice little cup-and-handle shaping up on the 15-minute. End-of-day $SPY $SPX favours a good day for the index. Will we see a gap open",
+    "output": "positive: 0.341"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral, and the confidence score.",
+    "input": "Went long on this $COG, will see 70's again me thinks",
+    "output": "positive: 0.574"
+  }
+]

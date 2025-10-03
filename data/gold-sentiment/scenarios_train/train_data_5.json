@@ -1,0 +1,1722 @@
+[
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles at lowest level since late july",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices drop to six-month low on strong dollar, rate outlook",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold climbs to log highest close in over two weeks",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices rebound from 20 month low on fresh buying, global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold heads for longest run of monthly drops in 16 years",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold, silver slump on weak demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "june gold down $3.20, or 0.2%, to end at $1,305.90/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures set to market fifth session of gains",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold steady as dollar dips ahead of yellen speech",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold pulls back; palladium gains",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures move further above $1,200 ahead of FOMC minutes",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures gain $8.40, or 0.6%, to settle at $1,357.20/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "december gold down 0.7% at $1,194.30 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold settles at nearly 8-week high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold falls 40 cents to $646.50/oz in morning trading",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold falls from a 25-year high; silver dulls",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles lower as private-sector hiring ups fed rate-hike odds",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold tumbles to 9-month low at rs 8,520",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "charts : gold retreats but finds support near $1230",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "april gold down $6.30, or 0.5%, at $1,372.70/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "kinross gold q3 realized price up 41% at $621 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls to Rs 29,050; silver down at Rs 38,500 per kg",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures up on global cues as speculators created fresh positions",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold soars to 2-month high on speculative buying",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "metals shares end lower on the heels of gold's decline",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "mining : top gold miners production cost still provides floor in the market price",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold closes higher for 3rd day ahead of China trade meeting",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices get post-settlement boost after Fed minutes",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "December gold down 0.1% at $1,277/oz.",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "feb. gold falls $4.10 to $1,613.50/oz in ny",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold up 80 cents at $1,370.90/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold pushes higher on news of barrick bid for placer dome",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold holds modest losses after Chicago PMI miss",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold trims gains; oil adds to losses on bernanke",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "India gold reverses early gains; physical demand up",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "June gold up 70 cents, or less than 0.1%, at $1,259.80/oz.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold higher but pares gains slightly after data, up $14.80 at $1,341.50/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold holds firm on Greek crisis, but dollar's strength caps the gains",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold settles at $1,293.80/oz, up $8.80, or 0.7%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures pare gains as traders weigh comments from fed officials",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures down at Rs 30,800 on global cues",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold falls 1.2% in electronic trade vs comex close",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Trump's North Korea threat lifts gold ahead of Fed statement",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "april gold climbs $4 to $655.50/oz in morning trading",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold deepens pullback from 7-week highs; U.S. payrolls data awaited",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "#NAME?",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold down 60 cents, or less than 0.1%, to end at $1,223.90/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures climb above $700 an ounce in morning dealings",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold, silver futures down sharply after end of fed qe",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold settles lower for first time in four sessions",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold holds near 3-week high amid ukraine, iraq tensions",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rallies as demand picks up at lower levels",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold pares gains after jobs report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold tallies fifth straight session gain, ends at highest since nov. 3",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold turns lower, trades under $1,370 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "capital economics says gold is going to fall",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold perched at $1,200 ahead of US jobs report",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold posts strongest weekly gain since mid-April",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures climb rs 121 as speculators widen position",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold ends three-day slump, amid stronger dollar and U.S. factory orders",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold set to rise in coming months",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold tanks on global crash; silver sinks",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures add to gains after adp data",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold retakes rs 29,000 barrier on unabated buying frenzy",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold settles at 2-month high on Brexit, Trump jitters",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec gold climbs $3.90 to two-week high at $473.20/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "August gold climbs $8.40, or 0.7%, to settle at $1,268.40.oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "august gold closes at $356.20 an ounce, up $3.40",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold ends higher after six session drop",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures turn higher after earlier weakness",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures down at Rs 27,341 per 10 gm",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold down $2.10, or 0.2%, at $1,370.50/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "metals shares end higher, following strength in gold",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold tops Rs 32,000-mark on jewellers' buying, global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices turn lower amid profit-taking",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices fall as dollar gains vs yuan in escalating trade war",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices rebound in asia ahead of china q3 gdp",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold spurts on fresh demand, silver sheds",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "mcx goldm april contract up 1%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures log highest finish since Oct. 3",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold gains 30 cents to $1,165/oz on globex",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold hovers near 3-month low, dollar strength weighs",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold trades higher on soft dollar; likely to remain volatile in near term",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dollar remains king while gold slips",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold drops as dollar holds gains after us jobs data",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "india : gold price crosses rs 32,000-mark amid festive demand",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures still weak in afternoon dealings",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold rises as dollar gives up gains; Fed rate hike in focus",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures close higher as the dollar weakens",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold gains on dollar weakness",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "February gold ends up $5.10, or 0.5%, at $1,138.70/oz.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold down $1.40 to $947.70/troy ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold, commodity prices up on better demand",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "april gold down $8.70, or 0.7%, ends at $1,294.70/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold extends losses, down $64.70 to $1,436.30 oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold drops over 2%, settles at lowest since july",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures extend gains",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices hold steady in early Asia with demand cues awaited",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices score highest settlement in 3 weeks",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold hits 23-month low at rs 25,650 on weak global cues",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures head lower for a second day",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rate today: gold, silver lacklustre on low demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold holds gains on weak dollar; rising stocks cap gains",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "crude oil, gold higher after u.s. data",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices gain in Asia after Fed minutes set dovish tone",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold shakes off losses to finish higher",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold drops $21.90, or 1.8%, to settle at $1,189.30/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold gains as US dollar weakens after cautious Fed speech",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "august gold rises 1.3% to $934.70 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold edges lower as markets prepare for fed rate hike",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Wedding season pushes gold prices by Rs 90 to Rs 33,300",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold drops on U.S. data, Fed move to end stimulus",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold steadies above &#36;1,748 after greek debt deal",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold demand improves on price drop, duty fears",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures top $426 on dollar, terror",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "december gold rises 0.2% at $1,222.80/oz.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures settle higher for first time in 5 sessions",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures log highest settlement since may 6",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold remains lower after flurry of U.S. data",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures erase weekly loss amid hopes for a go-slow Fed",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold dips on draghi comments, through erases earlier losses",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold inches up ahead of Fed policy statement",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold atop $400 for 1st time since april",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "December gold gains $5.40, or 0.4%, to settle at $1,346.70/oz.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices tally highest settlement in 3 weeks",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "February gold gains $9.50, or 0.8%, at $1,174.80/oz. after jobless-claims report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices settle at highest level of the month",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold stocks lose luster",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold stays near 10-month low, us payroll data in focus",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices hover at 2-week lows on dollar strength",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures climb as much as $9 in morning trading",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Why gold will rise no matter who becomes the next U.S. president",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold ends above $1,500, best since may 10",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold erases gains, turning lower as the dollar gains",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold swerves between gains and losses; at $1,802",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold hits 1-month low on dollar, economic worries",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold last down 40 cents at $1,714.60",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold trades higher after three straight losses",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold inches lower as us dollar steadies",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "comex gold prices settle lower, below $1,230/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rises by rs 175 on increased demand, firm global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "mcx goldguinea jan contract trades lower",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold inches down, ends week with 3.4% loss",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices steady to weaker in asia as investors eye china, india",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold surges to 1-month high; silver eases",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures prices top $280 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold, silver futures decline ahead of U.S. payrolls report, ECB outcome",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold falls on speculation financial crisis may have bottomed",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures make sudden turn lower",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold quoted at $408.30, down $1.20 from new york",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold scores weekly gain of 2.5%, after strongest month since January",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold comes off lows but ends in the red",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "charts : gold sits above 100-day ema for the first time since may 10",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures climb more than 5% for the month",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices steady in early asia trade with focus on hong kong",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls on heavy selling; silver spurts on fresh demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls to Rs 31,400 on muted demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures finish at their highest level in about 3 weeks",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold closes higher on thoughts of inflation ahead",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rises rs 52 on positive global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures down 0.9% for the week",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold holds in positive territory after empire state manufacturing data",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures at fresh two-week high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold edges higher but remains near 7-week low ahead of U.S. data",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold hits all-time high amid supportive conditions",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dollar slide sends gold futures higher",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices dip in asia as focus on u.s. jobs data, fed",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures up at Rs 29,066 per 10 gm",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "mcx goldpetal march contract trades lower",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures climb to Rs 27,383 per 10 gm",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices end the week nearly 1.8% higher",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold declines on global cues, silver slumps to one month low",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices tally second session of gains in a row",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold tumbles on weak global cues, sluggish demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold slips as dollar holds firm after us jobs data",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles at two-week high on euro, egypt",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold extends losses after robust US jobs report",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices trading lower in major metros",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures ease back on fresh dollar strength",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "feb gold closes down $4.80, or 0.9%, at $545.70/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures up on higher asian cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold ends sharply higher, then holds gains after Fed meeting minutes",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "crude, gold retreat as greek debt worries return",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rises, but ends with a monthly loss",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures top $1,650 in electronic trading",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold slips as markets calm, but hovers near 10-week high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold ends higher, platinum hits multimonth high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices slip in futures trade, fall rs 199 on global cues",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices dull on newmont news",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold holds early gains after PPI report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold steady above &#36;1,200, but tapering worries remain",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold, crude futures hold gains after payrolls data",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold tumbles to 2-week low with December Fed rate hike in sight",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold holds above $1,200 as dollar adds to weekly decline",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures edge lower in thin trading",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold falls modestly, ending 3-day winning streak",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures gain 4.2% for the week",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold ends with small gain",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold, silver edge higher ahead of U.S. jobless claims, housing data",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold tumbles to a more than five-week low",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures mark lowest settlement since feb. 26",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures end at one-week high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "December gold ekes out a slight gain",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures decline to Rs 26,931 per 10 gm",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold steady as market focus turns to us fed meeting",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold zooms by rs 685; hits over 1-month high on rbi measures",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold extends gain on rising demand",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "amex gold bugs index up 0.1% at 203.14",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold quoted at $404.10 in asia",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures spurt on global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "MCX GOLDPETAL Dec contract up nearly 1%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold slumps below $1,200, risk appetite dents safe-haven demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures up after Friday jobs report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures edge higher, u.s. jobs data in focus",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures up $14.60 at $823.40 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles at highest level since late february",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold, silver slides called 'overdone'",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold bid at $397.40 an ounce, up 50c",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold books its first gain in 6 sessions as dollar falls",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "cboe gold index closes at 82.8, down 1.3%",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices settle lower, pulling back after a 5-session rise",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices slide $14.90, or 1.1%, to $1,289.80 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "india gold demand seen falling to lowest in 8 years in 2017: wgc",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold quoted at $442, down 10 cents from new york",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Weekend roundup: Companies with most to gain from Trump tax cuts | Dow at 20,000 | A gold bug suffers",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold extends gains to $1,250/oz after ism report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold edges lower on weak buying sentiments, global cues",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rises for fourth day on inflation worries",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures up at Rs 31,197 per 10 gram",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures at seven-week low",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold Rates: Prices move up today",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold slides as traders look ahead to jackson hole speeches",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec gold down $2.40 at $374.50/oz after $373.50 low",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold declines on poor demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "mcx goldpetal january contract rises",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures up 1.8% on day, gains 1.9% on week",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures rise after u.s. jobs report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices end higher after iran test fires missile",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures fall as much as $17 in morning trading",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "newscast: stocks march in place; gold, oil slide",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "philadelphia gold & silver index gains 4.1%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold pares losses by the finish, gains 1.2% for the week",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "August gold declines $8, or 0.6%, at $1,285.20/oz.",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold logs first gain in three sessions before fed decision",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold down $2.50, or 0.2%, to $1,323.10/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures rise marginally to Rs 28,311; silver up at Rs 42,667 per kg",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold ends with a minor gain, up four sessions in five",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold ends lower as stocks fizzle",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold up in Asia in light trade with Fed minutes eyed",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold settles at $1,341.30/oz, down $3.10, or 0.2%",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "kinross gold launches $400m convertible notes offering",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold drops in biggest move in two weeks on upbeat economic signs",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures drop as much as $21 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold halts 3-day rise, sheds rs 50 on weak demand",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold steady near 7-week highs ahead of us jobs data",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "silver falls by rs 200 from record level, gold also declines",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold inches up after ecb vigilant on inflation",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold etf to face redemption pressure if price keeps falling",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rises but remains under $1,200 on stronger dollar",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices hit $338, issues shoot up",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold tumbles on weak futures trend, firm rupee",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold to hover around rs 16,000 this week",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold rally running on hope",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "april gold up $12.30 at $961.20 an ounce on nymex",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold slightly lower as deflation worries continue",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold ends up $6.70, or 0.7%, at $911 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "february gold ends down $5.10 at $850.10 an ounce on nymex",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures turn up, but trades below $1,600",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "why gold and silver are in the dumps",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold gains $7.90, or 0.6%, to settle at $1,283.70.oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold jumps $27.30, or 2.1%, to settle at $1,354/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold, silver drop in morning trade",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dollar aided by gold's fall, service data",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "August gold trades up $5.90, or 0.5%, at $1,233.50/oz.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures up at Rs 29,670 per 10 gm",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures climb past $700 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures continue higher, but off session's high",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold down 20 cents at $950.90/barrel",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls to Rs 32,310; silver moves down by Rs 150 per kg",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold prices rise on softer dollar, Italy budget woes",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "spot gold quoted at $472.50 in asia trade",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold up by rs 260, silver by rs 500 on global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold slips on profit-booking, weak demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold scores 3-session win, boosted by falling dollar",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures fall 0.07% on weak global cues, profit-booking",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures down 6.20 at $655.80 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures rise 0.47% on global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "august gold drops $30.80, or 5%, to $580.50/oz in ny",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold firms on soft dollar, us fiscal talks eyed",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold eyes worst week since March on dollar's strength",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold spurts on firm buying, silver also edges up",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold dips as dollar rallies",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold dips on stronger dollar, speculative selling",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures end higher, tally two-session gain of $21",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Federal Reserve gives gold a reason to rise",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures remain down around 0.7% at $1,203.20/oz after ECB holds on rates",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures end just short of week-ago close",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold prices slip as surging u.s. treasury yields lift dollar",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold up 2.5 percent as global stock rout spreads to europe",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "feb gold up $2.30 at $423.90/oz in morning ny trade",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls on Trump tax pledge, US rate hike expectations",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold recovers to Rs 30,550 on wedding season demand",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold holds modest decline after ADP report shows U.S. added 179k jobs",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold suffers third straight loss, amid additional pboc stimulus measures",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold glitters again, in tune with global trend",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold jumps back to 4-month tops on weaker usd",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold extends gains in wake of jobs report",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Feb. gold settles at $1,212.90/oz, up $16.70, or 1.4%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold eases from 3 week top as dollar holds steady",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles up 0.3% at $1,242.40/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold down more than $100 as settlement approaches",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold edges higher but remains below $1,300 in range bound trade",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold climbs $5.80, 0.4%, to settle at $1,316.40/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures rise for a third session",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "april gold falls $5.90, or 0.5%, to settle at $1,311.90/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "August gold falls $9.80, or 0.8%, to settle at $1,246.70/oz.",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "technical : gold has another solid up day. eight higher days in a row.",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "dec. gold down $3.90 at $636.70, retreats from $641.30 high",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold fields up in nyse debut",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "feb. gold falls $1.50 to close at $630.90/oz in ny",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures move up to Rs 31,306 per 10 gm",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold gains rs 25 on wedding demand, global cues",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold suffers back-to-back losses, sees knee-jerk reaction to Fed minutes",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold settles up $5.30, or 0.5%, at $1,142.70 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "April gold falls $1.90, or 0.2%, to settle at $1,200.70/oz",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold falls to Rs 30,450 on weak demand from local jewellers",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold stands tall as China fears fuel safe-haven draw",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold higher, but gains limited by strong dollar",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold settles 0.3% higher as dollar slips",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold gains on positive global cues, buying support",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold hits 1-month high on investment buying; silver spurts",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold futures finish the week with a gain of about 0.3%",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold holds steady as dollar remains subdued",
+    "output": "neutral"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Dec. gold climbs $1.70, or 0.1%, to settle at $1,274.90/oz",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold inches up though gains limited on fed expectations",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold declines as us stimulus outlook curbs demand",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "global gold demand in h1 lowest since 2009: wgc",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Gold slides to 1-week low ahead of Yellen, barrage of Fed speakers",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold dips on expectations that fed remains set to raise rates next year",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "commerzbank : gold to hit $1,350 in 2019; palladium to retreat",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold for december delivery ends up $15.90, or 1.4%, to settle at $1,123.60 an ounce",
+    "output": "positive"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "Spot Gold rates slip in Mumbai, Delhi, Chennai market",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "gold futures sink below $1,400 an ounce",
+    "output": "negative"
+  },
+  {
+    "instruction": "You are an AI language model trained to detect the sentiment of each sentence for finance trends.\nAnalyze the following sentence and determine if the sentiment is: positive or negative or neutral.\nReturn only a single word, either positive or negative or neutral.",
+    "input": "canadian markets close down; gold stocks hold slight gain",
+    "output": "positive"
+  }
+]
