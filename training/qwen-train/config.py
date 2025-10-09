@@ -15,7 +15,7 @@ class Config:
         'chinese-finance-data': 5000 # CSD: original 13700
     }
     
-    PROPORTIONS = [100]
+    PROPORTIONS = [5, 10, 20, 40, 75, 100]
     OUTPUT_ROOT = "output/qwen3/sft-models"
     
     LORA_R = 8
