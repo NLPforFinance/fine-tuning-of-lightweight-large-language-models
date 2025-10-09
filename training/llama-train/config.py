@@ -1,5 +1,5 @@
 class Config:
-    BASE_MODEL = "/data200/alvaro/models/LLM-Research/Meta-Llama-3-8B-Instruct"
+    BASE_MODEL = "meta-llama/Meta-Llama-3-8B-Instruct"
     DATASET_PARENT_PATHS = [
         "data/FinancialPhraseBank-v1.0/scenarios_train",
         "data/fiqa-sentiment-data-with-scores/scenarios_train",
