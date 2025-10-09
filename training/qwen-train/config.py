@@ -1,5 +1,5 @@
 class Config:
-    BASE_MODEL = "/data200/alvaro/models/Qwen/Qwen3-8B"
+    BASE_MODEL = "Qwen/Qwen3-8B"
     DATASET_PARENT_PATHS = [
         "data/FinancialPhraseBank-v1.0/scenarios_train",
         "data/fiqa-sentiment-data-with-scores/scenarios_train",
