@@ -20,9 +20,9 @@ class Config:
         )
         
         self.base_models = {
-            "deepseek": "/data200/alvaro/models/deepseek-ai/deepseek-llm-7b-base",
-            "llama": "/data200/alvaro/models/LLM-Research/Meta-Llama-3-8B-Instruct",
-            "qwen": "/data200/alvaro/models/Qwen/Qwen3-8B"
+            "deepseek": "deepseek-ai/deepseek-llm-7b-base",
+            "llama": "meta-llama/Meta-Llama-3-8B-Instruct",
+            "qwen": "Qwen/Qwen3-8B"
         }
         
         self.label_pattern = re.compile(r'(positive|negative|neutral)', re.IGNORECASE)
