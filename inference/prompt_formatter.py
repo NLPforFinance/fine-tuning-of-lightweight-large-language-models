@@ -81,5 +81,7 @@ class PromptFormatterShots:
             return f"<|im_start|>user\n{instruction}\n{input_text}<|im_end|>\n<|im_start|>assistant\n/no_think"
 
         elif self.model_type == "deepseek":
-            return f"<|user|>\n{instruction}\nSentence to analyze:\n{input_text}\n<|assistant|>\n"
+            START = "<|start_header_id|>"
+            END = "<|end_header_id|>"
+            return f"{START}user{END}\n{instruction}\n{input_text}\n{START}assistant{END}\n"
         
